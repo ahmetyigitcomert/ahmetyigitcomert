@@ -4,8 +4,8 @@ Ben Ahmet Yiğit Cömert Yazılım Mühendisliği öğrencisiyim
 
 ---
 
-* 🚀 İKA (İnsansız Kara Araçları) ve hassas tarım projelerinde geliştirme yapıyorum.
+* 🚀 UAV projelerinde yazılım geliştiriciliği yapıyorum.
 * 🎯 Otonom sistemler, algoritma tasarımı ve donanım entegrasyonu üzerine çalışıyorum.
-* 📚 İlgi alanlarım: veri yapıları, algoritmalar, C/C++, Python, gömülü sistemler.
+* 📚 İlgi alanlarım: veri yapıları, algoritmalar, gömülü sistemler.
 
 ---
